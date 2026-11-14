@@ -1,7 +1,0 @@
-abc
-output.txt
-README.md
-shell
-shell.c
-test
-Hello
